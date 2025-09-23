@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Drama"
+    ],
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Theater"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "legacy_uid": "38922039-03de-f867-0ccf-41eacbf11e8a",
+  "instructors": {
+    "content": [
+      "4726f3b6-5bd5-5f81-098f-1766520978c4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4ed263d3-abe0-96b8-47dc-0f5a682730d4",
+    "website": "21l-486-modern-drama-spring-2006"
+  },
+  "course_title": "Modern Drama",
+  "course_description": "This course analyzes major modern plays featuring works by Shaw, Pirandello, Beckett, Brecht, Williams, Soyinka, Hwang, Churchill, Wilson, Frayn, Stoppard, Deveare Smith, and Kushner. The class particularly considers performance, sociopolitical and aesthetic contexts, and the role of theater in the world of modern multimedia.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.486",
+  "course_image_thumbnail": {
+    "content": "5f0ae968-a969-8a6b-f509-c399374babee",
+    "website": "21l-486-modern-drama-spring-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "e57c966b-ee42-4835-83c6-a9409cacf224",
+  "site_short_id": "21l.486-spring-2006",
+  "site_url_path": "courses/21l-486-modern-drama-spring-2006",
+  "title": "Course Metadata"
+}
