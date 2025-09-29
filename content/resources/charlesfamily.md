@@ -4,6 +4,8 @@ description: This resource contains information on the Charles family tree.
 file: /courses/21l-486-modern-drama-spring-2006/43255e3bf7138f1aa8d0f6ee55fb85bc_charlesfamily.pdf
 file_size: 324717
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

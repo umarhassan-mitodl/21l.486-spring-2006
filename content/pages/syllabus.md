@@ -2,6 +2,8 @@
 content_type: page
 description: The syllabus contains an overview and list of materials for the course,
   grading criteria participation guidelines.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -345,6 +347,6 @@ Please Note: Written work must be submitted by the due date. Except in cases of 
 
 I hope that the following statement is unnecessary: **conscious plagiarism of any sort is completely unacceptable**. Discussion of ideas and communal learning is a primary goal of this subject; stealing others' ideas or words, (as distinct from citing or adapting them openly and honestly) undermines this goal. Please consult my stylesheet ({{% resource_link 5d5f480e-b80a-3222-689e-616560de958f "PDF" %}}) and talk with me if you have any doubts whatsoever about proper citation of sources or about standards of intellectual honesty. **Any act of plagiarism will be grounds for failure of this subject**. The following is the Literature Section's official policy statement:
 
-Plagiarism-use of another's intellectual work without acknowledgement-is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution consult the style guides available in the Writing and Communication Center in Stata and the {{% resource_link "56a066ae-ab8c-479e-8d08-d7de94b6926d" "MIT Web Site on Plagiarism" %}}.
+Plagiarism-use of another's intellectual work without acknowledgement-is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution consult the style guides available in the Writing and Communication Center in Stata and the [MIT Web Site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
 
 In addition to welcoming your participation in class, I encourage you to discuss your ideas and your writing with me during office hours, or at other times convenient for us both. I hope to meet with each of you individually during the first half of the semester.

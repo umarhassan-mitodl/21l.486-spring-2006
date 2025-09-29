@@ -32,6 +32,7 @@
     "website": "21l-486-modern-drama-spring-2006"
   },
   "course_title": "Modern Drama",
+  "hide_download": true,
   "course_description": "This course analyzes major modern plays featuring works by Shaw, Pirandello, Beckett, Brecht, Williams, Soyinka, Hwang, Churchill, Wilson, Frayn, Stoppard, Deveare Smith, and Kushner. The class particularly considers performance, sociopolitical and aesthetic contexts, and the role of theater in the world of modern multimedia.\n",
   "department_numbers": [
     "21L"
@@ -42,6 +43,7 @@
     "content": "5f0ae968-a969-8a6b-f509-c399374babee",
     "website": "21l-486-modern-drama-spring-2006"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],

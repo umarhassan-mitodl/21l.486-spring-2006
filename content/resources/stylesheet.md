@@ -5,6 +5,8 @@ description: This resource includes information about  marginal abbreviations an
 file: /courses/21l-486-modern-drama-spring-2006/5d5f480eb80a3222689e616560de958f_stylesheet.pdf
 file_size: 101888
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
