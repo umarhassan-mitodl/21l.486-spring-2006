@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains the readings for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -416,19 +414,19 @@ Kushner, Tony. _Homebody/Kabul_.
 {{< anchor "Films" >}}{{< /anchor >}}Films
 ------------------------------------------
 
-Asquith, Anthony and Leslie Howard. [_Pygmalion_](http://www.imdb.com/title/tt0030637/). 1938.
+Asquith, Anthony and Leslie Howard. {{% resource_link "f6979392-e609-4459-a5bd-9917973eb24b" "_Pygmalion_" %}}. 1938.
 
-Cukor, George. [_My Fair Lady_](http://www.imdb.com/title/tt0058385/). 1964.
+Cukor, George. {{% resource_link "b2fadd5f-ad90-47cb-8fb5-b506e9b51c83" "_My Fair Lady_" %}}. 1964.
 
-Jones, David Hugh. [_Betrayal_](http://www.imdb.com/title/tt0085234/). 1983.
+Jones, David Hugh. {{% resource_link "3e25ce4c-b8a7-49f6-b6b9-74a0c53e8ef6" "_Betrayal_" %}}. 1983.
 
-Kazan, Elia. [_A Streetcar Named Desire_](http://www.imdb.com/title/tt0044081/). 1951.
+Kazan, Elia. {{% resource_link "63c959a7-bd5a-4b3f-8144-4caa5ee7f213" "_A Streetcar Named Desire_" %}}. 1951.
 
-Cronenberg, David. [_M. Butterfly_](http://www.imdb.com/title/tt0107468/). 1993.
+Cronenberg, David. {{% resource_link "379551ae-003d-4933-8685-70669be4f446" "_M. Butterfly_" %}}. 1993.
 
-Levin, Marc. [_Twilight: Los Angeles_](http://www.imdb.com/title/tt0237865/). 2000.
+Levin, Marc. {{% resource_link "0bfd4170-f6c6-42ea-8856-f56c80fd15e1" "_Twilight: Los Angeles_" %}}. 2000.
 
-Nichols, Mike. [_Angels in America_](http://www.imdb.com/title/tt0318997/). 2003. (Optional viewing.)
+Nichols, Mike. {{% resource_link "c3bbeb45-4a8b-4a08-9dcd-70d03efb73db" "_Angels in America_" %}}. 2003. (Optional viewing.)
 
 {{< anchor "Additional_Readings" >}}{{< /anchor >}}Additional Readings
 ----------------------------------------------------------------------
